@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/reactnotekeeper/static/js/main.88b2a6d6.chunk.js",
+    "main.js.map": "/reactnotekeeper/static/js/main.88b2a6d6.chunk.js.map",
+    "runtime-main.js": "/reactnotekeeper/static/js/runtime-main.e948c831.js",
+    "runtime-main.js.map": "/reactnotekeeper/static/js/runtime-main.e948c831.js.map",
+    "static/js/2.dcc6bfbc.chunk.js": "/reactnotekeeper/static/js/2.dcc6bfbc.chunk.js",
+    "static/js/2.dcc6bfbc.chunk.js.map": "/reactnotekeeper/static/js/2.dcc6bfbc.chunk.js.map",
+    "index.html": "/reactnotekeeper/index.html",
+    "precache-manifest.cc9d429c46cd7807c6bf1f375fdd7684.js": "/reactnotekeeper/precache-manifest.cc9d429c46cd7807c6bf1f375fdd7684.js",
+    "service-worker.js": "/reactnotekeeper/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e948c831.js",
+    "static/js/2.dcc6bfbc.chunk.js",
+    "static/js/main.88b2a6d6.chunk.js"
+  ]
+}
